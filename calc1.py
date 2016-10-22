@@ -6,3 +6,6 @@ print c
 
 d=a*b
 print d
+
+x=a%b
+print x
